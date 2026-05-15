@@ -206,6 +206,6 @@ South South**
 ## Author
 
 **Adetunji Adesibikan**
-Data Analyst | FMCG Commercial Analytics | Lagos, Nigeria
+Data Analyst | FMCG Commercial Analytics |
 
 [LinkedIn](#) · [GitHub Portfolio](#)
