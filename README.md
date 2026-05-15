@@ -184,8 +184,7 @@ South South**
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
-🔗 [View Live Dashboard](#) *(add Power BI Service link 
-after publishing)*
+🔗 [View Live Dashboard](#) *(...)*
 
 ---
 
