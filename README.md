@@ -9,10 +9,9 @@ commercial experience
 
 ## Context
 
-Outlet-level Nigerian FMCG field force data, covering visit 
-economics, OOS patterns, and territory revenue structures, is 
-not available in any public repository. Proprietary sources like 
-NielsenIQ and Kantar publish aggregated market data, but not the 
+Outlet-level Nigerian FMCG field force data, is not available in 
+any public repository. Proprietary sources like NielsenIQ and 
+Kantar publish aggregated market data, but not the 
 outlet-level operational detail that drives field force decisions.
 This project fills that gap with a synthetic dataset built from 
 first-hand commercial experience.
